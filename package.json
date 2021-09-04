@@ -1,0 +1,34 @@
+{
+  "name": "crypto-to-discord-webhook",
+  "version": "1.0.0",
+  "description": "This project will, every hour, announce the crypto you'll choose via discord webhook to your discord server.",
+  "main": "index.js",
+  "type": "commonjs",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nodomatic/crypto-to-discord-webhook.git"
+  },
+  "keywords": [
+    "Crypto",
+    "Discord",
+    "webhook",
+    "ETH",
+    "BTC"
+  ],
+  "author": "Nodomatic#7583",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Nodomatic/crypto-to-discord-webhook/issues"
+  },
+  "homepage": "https://github.com/Nodomatic/crypto-to-discord-webhook#readme",
+  "dependencies": {
+    "node-fetch": "^2.0.0"
+  }
+}
