@@ -20,6 +20,7 @@ The file will (and must) be presented like this (in the following example, the a
     "api_key":"b54bcf4d-1bca-4e8e-9a24-22ff2c3d462c",
     "discord_webhook_url":"https://discord.com/api/webhooks/.../...",
     "debug":false
+}
 ```
 
 You can change the currency symbol (like ETH,  FTM, etc...) and you'll need a Basic [api key](https://pro.coinmarketcap.com/) (which is free)
