@@ -13,11 +13,11 @@ npm i
 ## Usage
 
 For this project you will only need to modify the following file : `./config.json` ("." mean the folder where the project is installer)
-The file will (and must) be presented like this : 
+The file will (and must) be presented like this (in the following example, the api_key is the sandbox api_key and will not work) : 
 ```json
 {
-    currency_symbol:"BTC",
-    api_key:"b54bcf4d-1bca-4e8e-9a24-22ff2c3d462c" //this is the sandbox api_key and will not work
+    "currency_symbol":"BTC",
+    "api_key":"b54bcf4d-1bca-4e8e-9a24-22ff2c3d462c"
 }
 ```
 
