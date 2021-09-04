@@ -4,7 +4,7 @@ This project will, every hour, announce the crypto you'll choose via discord web
 
 ## Installation
 
-Use the package manager [npm](https://nodejs.org/en/) (which you have while installing nodejs) to install the project.
+Use the package manager [npm and nodejs (16)](https://nodejs.org/en/) to install the project.
 
 ```bash
 npm i
